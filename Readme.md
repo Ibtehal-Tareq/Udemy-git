@@ -1,5 +1,5 @@
-## Git & GitHub Course
+## Introduction to Git & GitHub Course
 ### First Assignment
 
 Name: Ibtehal Tareq
-Note: Nothing
+Note: Good Luck
